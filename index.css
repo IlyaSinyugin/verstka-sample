@@ -35,3 +35,56 @@ body {
     background-color: #F8F8F8;
 
 }
+
+.header-title {
+  margin-bottom: 53px;
+  font-size: 24px;
+  line-height: 45px;
+  font-weight: 300;
+}
+
+.header-subtitle {
+  margin-bottom: 43px;
+  font-size: 250px;
+  line-height: 230px;
+}
+
+.header-description {
+  margin-bottom: 61px;
+  font-size: 32px;
+  line-height: 50px;
+}
+
+.buy-wrapper {
+  display: flex;
+}
+
+.buy-link {
+  display: block;
+  width: 278px;
+  height: 82px;
+  background-color: #161515;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 32px;
+  line-height: 82px;
+  text-align: center;
+}
+
+.price {
+  width: 143px;
+  height: 82px;
+  background-color: #FFFFFF;
+  color: #272727;
+  text-decoration: none;
+  font-size: 32px;
+  line-height: 82px;
+  text-align: center;
+}
+
+.header-img {
+  display: block; 
+  width: 772px;
+  margin-top: -104px;
+  margin-left: -90px;
+}
